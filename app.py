@@ -3,7 +3,6 @@ from multiapp import MultiApp
 from data_app import home, intro, model
 import json
 import requests
-from data_app import st_lottie
 
 app = MultiApp()
 
